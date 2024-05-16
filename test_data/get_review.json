@@ -1,0 +1,114 @@
+[
+    {
+        "text": "okayyyyy",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64c8887e5b75b56b163275db"
+    },
+    {
+        "text": "updated done",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64c8887e5b75b56b163275dd"
+    },
+    {
+        "text": "text dsadadddsasddasd",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64c8887e5b75b56b163275df"
+    },
+    {
+        "text": "text dsadadddsasddasd",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64c8887f5b75b56b163275e1"
+    },
+    {
+        "text": "hadjhdaksj",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64c8a2175b75b56b16327903"
+    },
+    {
+        "text": "its so good",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64ce2007b5030220d5cd1a0a"
+    },
+    {
+        "text": "futsal ma raila garam",
+        "user": {
+            "_id": "64b14160994f123d3bfd7064",
+            "fname": "juna",
+            "lname": "silwal",
+            "userName": "juna",
+            "email": "junasilwal12@gmail.com",
+            "phoneNum": "9860433545",
+            "password": "$2a$10$TF93IeNi87p6lK4OqPShYOtgJgeGc9m31SRHn0W9Akl4d5EwiQIoy",
+            "role": "user",
+            "__v": 0
+        },
+        "__v": 0,
+        "id": "64cf1d34a52df22b428d1879"
+    }
+]

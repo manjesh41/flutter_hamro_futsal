@@ -1,0 +1,222 @@
+[
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "sudip",
+        "bookingDate": "2023-07-13T00:00:00.000Z",
+        "startTime": "04:00",
+        "endTime": "05:00",
+        "phoneNum": "934923",
+        "email": "sudip@gmail.com",
+        "status": "declined",
+        "id": "64af880160b132d5984a0bc8"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-13T00:00:00.000Z",
+        "startTime": "01:00",
+        "endTime": "02:00",
+        "phoneNum": "984328",
+        "email": "manjesh@gmail.com",
+        "status": "declined",
+        "id": "64af884b60b132d5984a0bcd"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-13T00:00:00.000Z",
+        "startTime": "03:00",
+        "endTime": "04:00",
+        "phoneNum": "8324924",
+        "email": "manjesh@gmail.com",
+        "status": "declined",
+        "id": "64af88c160b132d5984a0bd3"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-20T00:00:00.000Z",
+        "startTime": "03:00",
+        "endTime": "04:00",
+        "phoneNum": "8324924",
+        "email": "manjesh@gmail.com",
+        "status": "declined",
+        "id": "64af88e060b132d5984a0bd6"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-15T07:39:29.270Z",
+        "startTime": "2023-07-16T22:15:00.866Z",
+        "endTime": "2023-07-16T23:15:00.004Z",
+        "phoneNum": "983242",
+        "email": "manjesh@gmail.com",
+        "status": "declined",
+        "id": "64b4f1da45a4462d575bcfdc"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh silwal",
+        "bookingDate": "2023-07-01T07:47:03.456Z",
+        "startTime": "2023-07-16T19:15:00.263Z",
+        "endTime": "2023-07-16T21:15:00.372Z",
+        "phoneNum": "89238948",
+        "email": "manjesh@gmail,com",
+        "status": "accepted",
+        "id": "64b4f21445a4462d575bcfdf"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "juna silwal",
+        "bookingDate": "2023-07-27T07:52:59.638Z",
+        "startTime": "2023-07-17T10:15:00.147Z",
+        "endTime": "2023-07-17T11:15:00.913Z",
+        "phoneNum": "98239984239",
+        "email": "manjesh@gmail.com",
+        "status": "accepted",
+        "id": "64b4f382f18012f2f7c84524"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh silwal",
+        "bookingDate": "2023-07-20T12:27:52.702Z",
+        "startTime": "2023-07-17T13:15:00.304Z",
+        "endTime": "2023-07-17T14:15:00.331Z",
+        "phoneNum": "98510",
+        "email": "manjesh@gmail.com",
+        "status": "accepted",
+        "id": "64b533edb9d383cf383a4973"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "pawan silwal",
+        "bookingDate": "2023-07-28T12:31:55.403Z",
+        "startTime": "2023-07-17T04:15:00.947Z",
+        "endTime": "2023-07-17T05:15:00.017Z",
+        "phoneNum": "938349234832",
+        "email": "pawan@gmail.com",
+        "status": "declined",
+        "id": "64b534dfb9d383cf383a4978"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "pawan safir",
+        "bookingDate": "2023-07-31T12:40:04.102Z",
+        "startTime": "00:00",
+        "endTime": "00:00",
+        "phoneNum": "93282392428",
+        "email": "saraf@gmail.com",
+        "status": "pending",
+        "id": "64b536be93c4a3545484e2de"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-31T12:45:15.816Z",
+        "startTime": "05:00",
+        "endTime": "06:00",
+        "phoneNum": "9909090990",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b537f293c4a3545484e2e3"
+    },
+    {
+        "user": "64aced3c5deb06ed24b0c5e0",
+        "fullname": "pawan silwal",
+        "bookingDate": "2023-07-19T00:00:00.000Z",
+        "startTime": "18:00",
+        "endTime": "19:00",
+        "phoneNum": "985102131",
+        "email": "pawan@gmail.com",
+        "status": "pending",
+        "id": "64b68dbb3e2183e8ac92871c"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "sugam poudel",
+        "bookingDate": "2023-07-20T11:30:45.311Z",
+        "startTime": "05:00",
+        "endTime": "06:00",
+        "phoneNum": "9851020102",
+        "email": "sugam@123gmail.co",
+        "status": "pending",
+        "id": "64b7c9811ae457d257646dac"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-20T11:31:55.664Z",
+        "startTime": "04:00",
+        "endTime": "05:00",
+        "phoneNum": "943294238432",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b7c9bc1ae457d257646daf"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-20T11:35:37.455Z",
+        "startTime": "05:00",
+        "endTime": "06:00",
+        "phoneNum": "932948",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b7caa11ae457d257646db4"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "manjesh silal",
+        "bookingDate": "2023-07-20T00:00:00.000Z",
+        "startTime": "05:00",
+        "endTime": "06:00",
+        "phoneNum": "9824828892",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b7cd951ae457d257646db9"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "manjesh",
+        "bookingDate": "2023-07-20T12:07:46.206Z",
+        "startTime": "04:00",
+        "endTime": "05:00",
+        "phoneNum": "38498324",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b7d2301ae457d257646dbe"
+    },
+    {
+        "user": "648963d9e9ef37282f1b73b2",
+        "fullname": "manjesh",
+        "bookingDate": "2023-08-16T12:15:06.835Z",
+        "startTime": "07:00",
+        "endTime": "08:00",
+        "phoneNum": "992848284",
+        "email": "manjesh@gmail.com",
+        "status": "pending",
+        "id": "64b7d4861ae457d257646dc3"
+    },
+    {
+        "user": "64b14160994f123d3bfd7064",
+        "fullname": "Nischal",
+        "bookingDate": "2023-08-08T00:00:00.000Z",
+        "startTime": "10:00",
+        "endTime": "11:00",
+        "phoneNum": "9834234",
+        "email": "nischal@gmail.com",
+        "status": "pending",
+        "id": "64cf28699e2c9fad09bd662e"
+    },
+    {
+        "user": "64b14160994f123d3bfd7064",
+        "fullname": "bibek Bista",
+        "bookingDate": "2023-08-08T00:00:00.000Z",
+        "startTime": "11:00",
+        "endTime": "12:00",
+        "phoneNum": "9842924",
+        "email": "bibek@gmail.com",
+        "status": "pending",
+        "id": "64cf2e7a9e2c9fad09bd6667"
+    }
+]

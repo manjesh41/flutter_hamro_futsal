@@ -1,0 +1,11 @@
+[{
+    "_id": "64ad2bc3ebad4578d9a57eb1",
+    "fname": "admin",
+    "lname": "admin",
+    "userName": "admin",
+    "email": "admin@gmail.com",
+    "phoneNum": "9787665565",
+    "password": "$2a$10$7oGuVkaoqNQpK94s6tAvbuLLaOdJoTvodR.LOiYwbnM4NV0CINhL2",
+    "role": "admin",
+    "__v": 0
+}]
